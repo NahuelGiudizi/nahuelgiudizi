@@ -136,7 +136,7 @@ h2 {
 .sun {
   position: absolute;
   transition: transform 1.7s ease-in-out;
-  width: 25%;
+  width: 35%;
   top: 40%;
   left: 43%;
   animation: suns 6s infinite alternate-reverse;
