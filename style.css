@@ -137,7 +137,7 @@ h2 {
   position: absolute;
   transition: transform 1.7s ease-in-out;
   width: 25%;
-  top: 43%;
+  top: 33%;
   left: 43%;
   animation: suns 6s infinite alternate-reverse;
 }
